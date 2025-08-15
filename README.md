@@ -42,7 +42,6 @@ MerFT/
 │   │       └── organize_unlabeled.py          # Semi-supervised organizing
 │   ├── raft.py, raft_local.py, eval.py        # General RAFT utilities (optional)
 │   └── openai_patch.py, checkpointing.py, env_config.py (optional)
-└── backup/                         # Only if created during maintenance
 ```
 
 ### ⚙️ Installation & Execution
