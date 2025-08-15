@@ -2,7 +2,7 @@
 
 🧠 ROMQD: A Multimodal Meme Reasoning Dataset for Social Conflict Interpretation
 ROMQD is a multimodal QA dataset focused on social conflict memes, and MerFT (Meme Exploration via Multimodal Retrieval-Augmented Fine-tuning) is a reasoning framework that leverages images, captions, and documents for robust interpretation in a complex sociocultural context.
-
+ We release our dataset at https://drive.google.com/drive/folders/1L_QfQuH11sDGde9weFXiSCL_AM5mV2d7
 📝 Overview
 Social media is a key platform for expressing and spreading social conflicts. In particular, memes have emerged as a powerful medium that conveys complex sociocultural messages through visual satire and symbolism.
 
